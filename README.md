@@ -1,0 +1,1 @@
+This project is for a responsive flower website that includes flowers for decorating, weddings, and birthdays, as well as gifts such as gift cards and teddy bears. For the front end, CSS, HTML, and JavaScript have been used, while PHP and MySQL are used for the backend.
